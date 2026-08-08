@@ -21,6 +21,10 @@ To leverage my technical expertise and cloud engineering skills within a dynamic
 
 ## 💼 Experience
 
+### 💬 Sales Consultant
+**iSmile Dental Software** | Islamabad (August 2025 - Present)  
+- Advise dental practices on adopting iSmile software to streamline operations and improve patient care.
+
 ### 🌥️ Cloud Engineer Intern
 **Cloudelligent** | Islamabad (July 2024 - October 2024)  
 - Worked alongside DevOps tools, building intelligent solutions for AWS infrastructure management.
